@@ -1,0 +1,53 @@
+html{
+    font-family:sans-serif;
+}
+body{
+    background: color #f7f8f9; ;
+}
+
+header{
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+h1{
+    display:inline-block;
+}
+
+header img.
+header h1{
+    vertical-align: middle;
+}
+main #todolist{
+          width: 80%;
+          margin: 0 auto;
+}
+#todolist-top{
+    border-top-left-radius: 10px ;
+    border-top-right-radius:  10 px,
+    padding: 10px;
+    margin: 2%
+
+}
+#todolist-bottom{ 
+    border-top-left-radius: 10px ;
+    border-top-right-radius:  10 px,
+}
+  
+#todolist-top,
+#todolist-buttom{
+    backgrong-color:#fff;
+}
+#todolist_top .btn-blu{
+    backgrong color: #47ACF2;
+
+}
+#todolist_top button{
+    border: 1px solid lightslategray;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    
+     text-transform: capitalize;
+
+}
